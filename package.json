@@ -1,0 +1,13 @@
+{
+  "name": "code-highlighter",
+  "version": "1.0.0",
+  "description": "Simple code highlighter to be used to format code for presentations.",
+  "scripts": {
+    "highlight": "node ./scripts/highlight.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "clipboard-js": "^0.3.5",
+    "pygments": "https://github.com/tj/node-pygments"
+  }
+}

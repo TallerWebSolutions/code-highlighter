@@ -1,0 +1,31 @@
+body {
+  background-color: #2F3033;
+  margin: 10em;
+}
+
+pre {
+  font-family: 'Fira Code';
+  font-size: 60px;
+  font-weight: bold;
+  color: #DFE1D7;
+}
+
+.linenos {
+  display: none;
+}
+
+.kd {
+  color: #AB333B;
+}
+
+.nx {
+  color: #7d6e6e;
+}
+
+.p {
+  color: #AB333B;
+}
+
+.s1 {
+  color: #825a24;
+}
